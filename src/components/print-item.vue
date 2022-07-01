@@ -6,6 +6,7 @@
                 <option value="text">text</option>
                 <option value="barcode">barcode</option>
                 <option value="qrcode">qrcode</option>
+                <option value="line">line</option>
             </select>
         </span>
         <span class="setting-item">
